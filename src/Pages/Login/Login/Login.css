@@ -1,0 +1,36 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container{
+    background-color: #000000;
+    color: white;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.input-field input{
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    padding: 5px;
+}
+
+.icon-btn .google-icon{
+    display: inline;
+    height: 30px;
+    width: 30px;
+    /* color: #1cc7c1; */
+    color: #fafafa;
+    border-radius: 50%;
+    border: 1px solid #6ACECE;
+    padding: 10px;
+}
+.active-icon{
+    background-color: #6ACECE ;
+    color:white;
+}
